@@ -1,0 +1,24 @@
+{
+  "name": "omniverse-metadata",
+  "version": "1.0.0",
+  "description": "This is the future of the VR technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoRuiz454/Omniverse-Metadata.git"
+  },
+  "author": "DiegoRuiz454",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoRuiz454/Omniverse-Metadata/issues"
+  },
+  "homepage": "https://github.com/DiegoRuiz454/Omniverse-Metadata#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.3",
+    "simple-git": "^3.7.1"
+  }
+}
